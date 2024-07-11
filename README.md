@@ -57,12 +57,23 @@ my_project/
 **Directory Breakdown**
 
 lib/: Contains the main code of your application.
+
+
 main.dart: The entry point of the application.
+
+
 screens/: Contains screen widgets for different pages of the app.
+
+
 widgets/: Contains reusable widgets used across the app.
+
 models/: Contains data models used in the app.
+
 services/: Contains services such as API calls and database interactions.
+
 utils/: Contains utility files like constants and helper functions.
+
+
 assets/: Contains images, fonts, and other assets.
 
 **Running the App**
