@@ -2,42 +2,82 @@
 
 
 **Overview**
-Power Hacks is a celebration of the completion of the February 2024 Cohort. The event runs from the 11th to the 22nd of July 2024. The hackathon focuses on three main themes:
 
-1  **Level Up Learning:** Building Innovative Education Tools for All (Ed Tech)
+Power Hacks is a celebration of the completion of the February 2024 Cohort, running from the 9th to the 22nd of July. The hackathon focuses on three main themes, all using **Flutter:**
 
-2. **Building Solutions for Improved Healthcare** Accessibility (Health tech solutions)
-   
-3. **Hack the Headlines:** Code for Change (to cater to the current affairs happening in the countries)
+1. **Level Up Learning**: Building Innovative Education Tools for All (Ed Tech)
+2. **Building Solutions for Improved Healthcare Accessibility** (Health tech solutions)
+3. **Hack the Headlines**: Code for Change (to cater to the current affairs happening in the countries)
 
-   
-Participants can choose to develop solutions in **Dart Flutter,** **Python,** or **Web technologies**. 
+This README provides guidelines on setting up your Dart Flutter project and organizing your files.
 
-**Development Guidelines**
+**Project Setup**
 
-**Understand the Theme:**
+**Create a new Flutter project:**
 
-Ensure your project aligns with one of the hackathon themes.
+Use the **flutter create** command followed by your project name.
 
-**Handling code :**
+Use the flutter pub get command to install the dependencies.
 
- Use version control systems like Git to push your code .
- 
-**Document Your Code:**
+**Project Structure**
 
-Maintain clear documentation for your codebase to help others understand your project.
+Organizing your project files effectively is crucial for maintaining a clean and manageable codebase. Here's a suggested structure:
 
-**Submission**
 
-Prepare your project:
+my_project/
+├── android/
+├── build/
+├── ios/
+├── lib/
+│   ├── main.dart
+│   ├── screens/
+│   │   ├── home_screen.dart
+│   │   └── detail_screen.dart
+│   ├── widgets/
+│   │   ├── custom_button.dart
+│   │   └── custom_card.dart
+│   ├── models/
+│   │   ├── user.dart
+│   │   └── product.dart
+│   ├── services/
+│   │   ├── api_service.dart
+│   │   └── database_service.dart
+│   ├── utils/
+│   │   ├── constants.dart
+│   │   └── helpers.dart
+│   └── assets/
+│       ├── images/
+│       │   └── logo.png
+│       └── fonts/
+│           └── custom_font.ttf
+├── test/
+├── pubspec.yaml
+└── README.md
 
-Ensure all code is committed and pushed to your repository.
-Write a clear and concise README file with instructions on how to run and test your project.
+**Directory Breakdown**
+
+lib/: Contains the main code of your application.
+main.dart: The entry point of the application.
+screens/: Contains screen widgets for different pages of the app.
+widgets/: Contains reusable widgets used across the app.
+models/: Contains data models used in the app.
+services/: Contains services such as API calls and database interactions.
+utils/: Contains utility files like constants and helper functions.
+assets/: Contains images, fonts, and other assets.
+
+**Running the App**
+Use the _flutter run_ command  and choose devices from the given list 
+
+
+
+**Conclusion**
+
+Participate actively, learn from the experience, and contribute to building innovative solutions that can make a difference. Good luck!
+
 
 **Submit your project:**
 
 Follow the submission guidelines provided by the hackathon organizers.
 Ensure all required documentation and resources are included in your submission.
 
-**Conclusion**
-Participate actively, learn from the experience, and contribute to building innovative solutions that can make a difference. Good luck!
+
