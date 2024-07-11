@@ -3,7 +3,7 @@
 
 **Overview**
 
-Power Hacks is a celebration of the completion of the February 2024 Cohort, running from the 9th to the 22nd of July. The hackathon focuses on three main themes, all using **Flutter:**
+Power Hacks is a celebration of the completion of the February 2024 Cohort, running from the 11th to the 22nd of July. The hackathon focuses on three main themes, all using **Flutter:**
 
 1. **Level Up Learning**: Building Innovative Education Tools for All (Ed Tech)
 2. **Building Solutions for Improved Healthcare Accessibility** (Health tech solutions)
@@ -89,6 +89,9 @@ Participate actively, learn from the experience, and contribute to building inno
 **Submit your project:**
 
 Follow the submission guidelines provided by the hackathon organizers.
+Submit your repository link here https://forms.gle/DxuP3QoCNSHTZxLs5
 Ensure all required documentation and resources are included in your submission.
+
+
 
 
