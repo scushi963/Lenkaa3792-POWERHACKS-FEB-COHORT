@@ -1,20 +1,18 @@
-POWERHACKS-FEB-COHORT
+**POWERHACKS-FEB-COHORT**
 
 
-Overview
+**##Overview**
 Power Hacks is a celebration of the completion of the February 2024 Cohort. The event runs from the 9th to the 22nd of July. The hackathon focuses on three main themes:
 
-Level Up Learning: Building Innovative Education Tools for All (Ed Tech)
-Building Solutions for Improved Healthcare Accessibility (Health tech solutions)
-Hack the Headlines: Code for Change (to cater to the current affairs happening in the countries)
-Participants can choose to develop solutions in Dart Flutter, Python, or web technologies. This README provides guidelines on setting up your development environment, building your project, and handling tests.
+1  **Level Up Learning:** Building Innovative Education Tools for All (Ed Tech)
+2. **Building Solutions for Improved Healthcare** Accessibility (Health tech solutions)
+3. **Hack the Headlines:** Code for Change (to cater to the current affairs happening in the countries)
 
-Project Setup
-Dart Flutter
-Install Flutter SDK:
+   
+Participants can choose to develop solutions in **Dart Flutter,** **Python,** or **web technologies**. This README provides guidelines on setting up your development environment, building your project, and handling tests.
 
-Download the Flutter SDK from Flutter's official website.
-Extract the downloaded file and add the flutter/bin directory to your PATH.
+**Project Setup**
+**Dart Flutter**
 Create a new Flutter project:
 
 bash
@@ -37,7 +35,7 @@ Run tests:
 bash
 Copy code
 flutter test
-Python
+**Python**
 Install Python:
 
 Download and install Python from Python's official website.
