@@ -90,7 +90,7 @@ Participate actively, learn from the experience, and contribute to building inno
 
 Follow the submission guidelines provided by the hackathon organizers.
 
-Submit your repository link here https://forms.gle/DxuP3QoCNSHTZxLs5
+Submit your repository link here [https://forms.gle/DxuP3QoCNSHTZxLs5](https://forms.gle/ZKmixmVXD6pz9eEQ6)
 
 Ensure all required documentation and resources are included in your submission.
 
